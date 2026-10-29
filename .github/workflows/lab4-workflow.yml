@@ -14,4 +14,4 @@ jobs:
           with:
             node-version: '20.x'
             registry-url: 'https://npm.pkg.github.com'
-          runs: npm install
+          run: npm install
